@@ -1,0 +1,16 @@
+{
+    "db":{
+        "database": "testDB",
+        "username": "postgres",
+        "password": "123",
+        "logging": false,
+        "host": "localhost",
+        "dialect": "postgres"
+    },
+
+    "jwt":{
+        "secret": "616e4a19c2d1f4f59fdb58c0bb15edd718dcc0a1954fe79284f3c7abe2aef8fef37ac48c940426224b1894fa5628bf1aa10824288dee7506445816c5e3234a56"
+    }
+
+
+}
